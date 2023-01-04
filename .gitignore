@@ -28,3 +28,5 @@ logs
 secret
 service-account-key.json
 bundle.js
+
+Note.md
